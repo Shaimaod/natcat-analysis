@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes public EM-DAT data to explore the evolution of natural 
-catastrophes over 25 years, with a focus on the **protection gap** — the difference 
+catastrophes over 25 years, with a focus on the **protection gap** the difference 
 between total economic losses and insured losses.
 
 This concept is central to the reinsurance industry, where understanding and 
@@ -30,11 +30,11 @@ Swiss Re, Munich Re or AXA XL.
 ![Top Countries](04_top_pays.png)
 
 ## Key Findings
-- **Frequency is stable** — between 350 and 500 events per year, with no clear upward trend
-- **Floods and storms dominate** — accounting for the majority of recorded events
-- **The protection gap is massive** — insured losses represent only a fraction of total economic losses
-- **2011 and 2017 were exceptional years** — Japan tsunami, Thailand floods, and hurricanes Harvey/Irma/Maria
-- **The US leads economic exposure** — over $2,000 billion in cumulative losses since 2000
+- **Frequency is stable** between 350 and 500 events per year, with no clear upward trend
+- **Floods and storms dominate** accounting for the majority of recorded events
+- **The protection gap is massive** insured losses represent only a fraction of total economic losses
+- **2011 and 2017 were exceptional years** Japan tsunami, Thailand floods, and hurricanes Harvey/Irma/Maria
+- **The US leads economic exposure** over $2,000 billion in cumulative losses since 2000
 
 ## Limitations
 
@@ -45,7 +45,7 @@ several limitations should be kept in mind when interpreting this analysis.
 A significant share of economic and insured loss values are missing, 
 particularly for developing countries. These countries tend to report 
 casualties more reliably than financial damages. As a result, the protection 
-gap calculated in this analysis is likely **underestimated** — the true gap 
+gap calculated in this analysis is likely **underestimated**, the true gap 
 is probably wider than what the data suggests.
 
 ### 2. Reporting Bias
@@ -70,12 +70,12 @@ generate significant losses may therefore be **invisible** in this dataset.
 Even when using inflation-adjusted figures, comparing losses across 25 years 
 remains complex. The value of exposed assets (real estate, infrastructure, 
 equipment) has increased significantly over the period, meaning that the same 
-physical event would generate much higher losses today than in 2000 — 
+physical event would generate much higher losses today than in 2000,
 independently of any change in hazard frequency or intensity.
 
 ### 6. Scope of Analysis
 This project focuses on frequency and economic exposure. It does not cover 
-mortality analysis, regional deep-dives, or predictive modeling — 
+mortality analysis, regional deep-dives, or predictive modeling,
 all of which would require additional data sources and methodologies.
 
 ## Data Source
